@@ -13,4 +13,9 @@ public class main {
     public void saludo(){
     
     }
+    
+    public void despedida(){
+    
+    }
+    
 }
